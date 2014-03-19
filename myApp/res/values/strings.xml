@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">Application</string>
-    <string name="hello_world">Splash Screen</string>
-    <string name="action_settings">Settings</string>
-    <string name="home_screen">Home Screen</string>
-    <string name="title_activity_home_screen">Application</string>
-</resources>

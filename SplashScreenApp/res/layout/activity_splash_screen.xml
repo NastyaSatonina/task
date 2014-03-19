@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"    
+    tools:context="com.example.splashscreenapp.SplashScreen$PlaceholderFragment" >
+
+    <ImageView
+        android:id="@+id/imageSplashScreenKenny"
+        android:layout_width="wrap_content"
+        android:layout_height="370dp"
+        android:layout_weight="1"
+        android:src="@drawable/kenny" />
+
+    <TextView
+        android:id="@+id/textSplashScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/splash_screen"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>
